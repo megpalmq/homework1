@@ -4,9 +4,9 @@
 
 Blah Blah Blah
 
--word
--word
--word
+- word
+- word
+- word
 
 ### Node.js Understanding
 
