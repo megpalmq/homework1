@@ -16,8 +16,8 @@ console.log("It's Java Script Ig?");
 
 ### Version Control, Git, & GitHub
 
-| Command      | Description           |
-| ------------ | --------------------- |
-| `git push .` | push code into github |
+| Command  | Description           |
+| -------- | --------------------- |
+| git push | push code into github |
 
 ### Markdown & Documentation
